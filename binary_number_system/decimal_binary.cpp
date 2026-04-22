@@ -12,6 +12,6 @@ int dec_bin(int decNum){
 }
 
 int main(){
-    cout << dec_bin(50);
+    cout << dec_bin(50) << endl;
     return 0;
 }
